@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### 안녕하세요. 저는 서현재입니다.
+
 <!--
 **stopresent/stopresent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
