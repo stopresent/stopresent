@@ -1,3 +1,15 @@
+# 안녕하세요 👋
+
+😄 게임 클라이언트와 게임 서버 모두 알고 터득하고 싶은 서현재입니다.
+
+- C#, C++
+- Unity
+- DirectX12
+- 소켓프로그래밍
+
+등을 공부하였으며, 앞으로도 꾸준히 나아갈 것 입니다!
+
+
 <!--
 **stopresent/stopresent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
