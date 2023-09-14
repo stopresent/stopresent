@@ -9,6 +9,10 @@
 
 등을 공부하였으며, 앞으로도 꾸준히 나아갈 것 입니다!
 
+- 게임 개발 목록
+    - UpToSky (처음 바닥부터 직접 만들어본 게임으로 구글플레이에 출시해보았습니다.)
+    - MessMath (제 3회 웅진 씽크빅 게임 개발 챌린지 출품작)
+    - LittleFex (제2회 GYAAR Studio 인디 게임 콘테스트 출품작)
 
 <!--
 **stopresent/stopresent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
