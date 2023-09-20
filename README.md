@@ -17,7 +17,8 @@
     - LittleFex (제2회 GYAAR Studio 인디 게임 콘테스트 출품작)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stopresent&show_icons=true&theme=dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stopresent&show_icons=true&theme=dark) -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stopresent&layout=compact&theme=dark)
 
 
