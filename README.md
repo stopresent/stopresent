@@ -4,7 +4,7 @@
 열심히하는 독학러!  
 느리지만 꾸준하게 걸어갈 것 입니다!!  
 
-- C#, C++
+- ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white), ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 - Unity
 - DirectX12
 - 소켓프로그래밍
